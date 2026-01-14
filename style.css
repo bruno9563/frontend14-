@@ -12,7 +12,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    /* Caminho ajustado para GitHub Pages */
+
+    /* Caminho do background ajustado para GitHub Pages */
     background: url('/frontend1/img/img.jpg') no-repeat center/cover;
 }
 
